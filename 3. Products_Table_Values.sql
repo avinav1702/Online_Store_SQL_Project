@@ -1,0 +1,22 @@
+--Values for Table Products
+INSERT INTO Online_Store.dbo.Products VALUES
+(801, 'iPhone 12 Pro', 1099.99, 100),
+(802, 'Samsung Galaxy S21', 999.99, 50),
+(803, 'Sony PlayStation 5', 499.99, 75),
+(804, 'Apple AirPods Pro', 249.99, 200),
+(805, 'Dell XPS 15 Laptop', 1599.99, 150),
+(806, 'Nintendo Switch', 299.99, 80),
+(807, 'Canon EOS Rebel T7i', 749.99, 120),
+(808, 'Bose QuietComfort 35 II', 299.99, 90),
+(809, 'LG OLED55C1PUB 55" TV', 1799.99, 60),
+(810, 'Amazon Echo Dot', 49.99, 110),
+(811, 'HP Pavilion 27xw Monitor', 199.99, 95),
+(812, 'GoPro HERO9 Black', 449.99, 70),
+(813, 'Fitbit Charge 4', 129.99, 100),
+(814, 'Microsoft Surface Pro 7', 899.99, 40),
+(815, 'Sony WH-1000XM4 Headphones', 349.99, 85),
+(816, 'Logitech MX Master 3 Mouse', 99.99, 130),
+(817, 'Samsung QLED Q90T 65" TV', 1999.99, 55),
+(818, 'Lenovo ThinkPad X1 Carbon', 1499.99, 120),
+(819, 'Apple Watch Series 6', 399.99, 70),
+(820, 'Bose SoundLink Revolve+', 299.99, 90)
